@@ -1,9 +1,7 @@
 # YOUR NAME · YOUR-STUDENT-ID
 
 # PitchPulse ⚽ — Soccer Match Analysis Platform
-### PDC Assignment 2 · Problem 3: Fault Tolerance via Circuit Breaker
-
-Repository: `PDC-Sp24-[YOUR-ID]-[YOUR-LASTNAME]`
+### Fault Tolerance via Circuit Breaker
 
 ---
 
