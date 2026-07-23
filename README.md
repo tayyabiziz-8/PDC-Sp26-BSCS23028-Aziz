@@ -95,14 +95,6 @@ CLOSED ──(3 failures)──► OPEN ──(15s timeout)──► HALF_OPEN �
 
 ---
 
-## Demo Video Outline (2 min)
-
-1. **(0:00–0:20)** Show the dashboard, fire 3 events — fast AI commentary, CB state = CLOSED
-2. **(0:20–0:50)** Toggle LLM DOWN, fire 3 events — watch them hang ~5s, CB trips to OPEN
-3. **(0:50–1:20)** Fire 3 more events while OPEN — they return **instantly** with fallback (no hang!)
-4. **(1:20–1:50)** Toggle LLM back UP, wait 15s, fire one event — CB probes, resets to CLOSED
-5. **(1:50–2:00)** Normal operation resumes — fast AI commentary again ✅
-
 ---
 
 ## API Endpoints
